@@ -8,7 +8,7 @@ description: ""
 
 I think I already learned the lesson that is the subject of this blog post before but I'm having to relearn it in my new role as a data science manager rather than a data science do-er. 
 
-When I first started to get into data science I made the mistake I think a lot of people make where they think "I'm doing data science, data science is typing code, I want to do lots of data science, let's type a lot of code". And you just feverishly type code all day. Once you've been doing that for a few months you start to reailse that you're just making a huge mess. All your code needs refactoring, your dashboard is ugly and makes no sense, you're using a model that really just doesn't work with the data. You make a big pile of mess at high speed and then slowly improve it at low speed.
+When I first started to get into data science I made the mistake I think a lot of people make where they think "I'm doing data science, data science is typing code, I want to do lots of data science, let's type a lot of code". And you just feverishly type code all day. Once you've been doing that for a few months you start to realise that you're just making a huge mess. All your code needs refactoring, your dashboard is ugly and makes no sense, you're using a model that really just doesn't work with the data. You make a big pile of mess at high speed and then slowly improve it at low speed.
 
 I twigged this after a while and started to realise data science is actually thinking and planning. The typing code bit comes right at the end. It's the last thing you do. And I would very often walk away from my keyboard and write on a piece of paper to stop me from just banging code out.
 
